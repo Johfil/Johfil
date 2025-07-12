@@ -1,6 +1,6 @@
 LeWagon graduate, Ruby on Rails, SQL, HTML, CSS, JS
-/ Previous Esport professional, lifelong GTO student.
-/ Job offers: filonovjohan@gmail.com
+/ Previous Esport professional, lifelong Game Theory student.
+/ Contacts: filonovjohan@gmail.com
 
 <!---
 Johfil/Johfil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
