@@ -1,4 +1,4 @@
-LeWagon graduate, Ruby on Rails, SQL, HTML, CSS, JS
+LeWagon graduate
 / Previous Esport professional, lifelong Game Theory student.
 / Contacts: filonovjohan@gmail.com
 
